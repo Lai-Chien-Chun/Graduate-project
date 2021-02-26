@@ -1,0 +1,643 @@
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200445,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200447,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200447,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200451,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200453,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,3,180.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200453,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200455,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200455,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200459,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200461,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200461,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,6,360.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,200463,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200467,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200467,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200469,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200471,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200471,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200473,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200473,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200477,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200479,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200479,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200481,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200481,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200485,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200487,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200487,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200489,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200489,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200491,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200495,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200495,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200497,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200499,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200499,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200501,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200501,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200505,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200507,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200507,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200509,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200511,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200513,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200515,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200515,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200517,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200521,7.38 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200535,7.39 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200581,7.39 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200598,7.39 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200606,7.39 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200628,7.39 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200685,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200712,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200734,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200748,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200757,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200760,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200764,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200773,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200780,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200786,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200788,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200790,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200792,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200795,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200804,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200808,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200808,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200810,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200818,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200819,7.40 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200857,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200864,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200867,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200867,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200872,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200879,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200879,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200884,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200890,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200895,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200901,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200903,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200903,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200907,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200916,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200923,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200923,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200925,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200931,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200932,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200939,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200948,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200954,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200959,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200961,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200961,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200969,7.41 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200975,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200977,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200980,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200982,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200984,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200993,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200995,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,200999,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201004,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201011,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201015,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201022,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201026,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201030,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201038,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201044,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201044,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201050,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201053,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201053,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201055,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201061,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201064,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201066,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201068,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201068,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201076,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201106,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201118,7.42 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201142,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201154,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201170,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201192,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201205,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201217,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201233,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201256,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201266,7.43 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201282,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201296,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201313,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201330,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201343,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201361,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201373,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201384,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201395,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201406,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201416,7.44 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201429,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201432,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201432,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201437,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201442,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201443,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201450,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201454,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201463,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201465,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201467,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201469,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201475,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201480,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201482,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201482,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201487,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201492,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201496,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201496,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201499,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201505,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201506,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201508,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201512,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201520,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201521,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201529,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201534,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201540,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201543,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201545,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201551,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201554,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201558,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201560,7.45 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201562,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201565,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201573,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201575,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201575,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201580,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201585,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201589,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201594,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201597,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201605,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201606,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201610,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201612,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201620,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201621,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201623,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201627,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201635,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201636,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201638,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201642,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201649,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201651,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201653,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201660,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201661,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201665,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201667,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201669,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201675,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201678,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201680,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201685,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201689,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201695,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201700,7.46 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201702,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201707,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201710,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201719,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201722,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201728,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201731,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201745,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201756,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201765,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201771,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201777,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201785,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201789,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201793,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201795,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201802,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201803,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201807,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201811,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201820,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201826,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201826,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201830,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201832,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201839,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201840,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201844,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201846,7.47 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201854,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201855,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201857,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201861,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201869,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201870,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201877,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201883,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201889,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201893,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201893,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201896,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201905,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201908,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201908,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201913,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201918,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201922,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201922,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201928,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201932,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201936,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201942,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201945,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201947,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201949,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201953,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201960,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201963,7.48 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,201998,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,14,840.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202024,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,42,2.46 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202032,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,77,4.51 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202034,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,105,6.15 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202034,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,108,6.35 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202038,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,116,7.01 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202047,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,116,7.01 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202055,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202058,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202063,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202070,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202072,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202094,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202111,7.49 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202160,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202162,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202170,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202173,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202173,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202183,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202186,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202188,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202193,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202199,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202207,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202208,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202210,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202214,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202220,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202223,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202223,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202227,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202236,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202242,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202246,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202249,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202255,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202261,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202266,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202273,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,1,84.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202274,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202278,7.50 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202284,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202287,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202291,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202293,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202299,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202302,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202304,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202308,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202316,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202323,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202325,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202331,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202337,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202344,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202347,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202352,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202357,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202359,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202366,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202370,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202374,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202374,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202380,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202384,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202388,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202390,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202396,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202399,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202401,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202406,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202414,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202416,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202420,7.51 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202426,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202428,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202430,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202438,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202444,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202444,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202446,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202453,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202463,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202473,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202484,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202496,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202498,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202502,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202510,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202513,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202517,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202521,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202528,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202529,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202537,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202544,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202548,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202553,7.52 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202560,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202567,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202569,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202576,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202581,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202591,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202599,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202603,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202607,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202611,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202619,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202623,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202631,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202634,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202637,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202641,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202653,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202664,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202670,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202674,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202678,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202684,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202689,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202696,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202699,7.53 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202707,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202709,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202718,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202722,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202729,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202735,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202740,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202746,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202753,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202759,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202763,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202773,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202775,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202782,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202783,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202785,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202789,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202797,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202800,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202806,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202811,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202819,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202820,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202827,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202835,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202841,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202843,7.54 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202851,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202861,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202865,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202870,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202873,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202888,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202898,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,16,960.00 B,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202905,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,56,3.28 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202907,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,91,5.33 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202916,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,110,6.45 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202921,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,110,6.45 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202928,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,110,6.45 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202933,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,110,6.45 KB,DROP,all,--,*,*,192.168.1.140,192.168.0.160
+2,202941,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202949,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202950,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202954,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,202960,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,202968,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+2,5,420.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+3,202979,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+2,14,1.15 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+3,202980,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+2,23,1.89 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+3,202986,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+2,32,2.63 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+3,202990,7.55 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203003,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203004,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203006,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203016,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203026,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203032,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203038,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203047,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203049,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203055,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203059,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203061,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203063,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203070,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203112,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203127,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203130,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203136,7.56 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203140,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203142,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203150,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203153,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203158,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203163,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203175,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203188,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203194,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203202,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203205,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203214,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203218,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203220,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203226,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203231,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203238,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203246,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,14,1.15 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203257,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,24,1.97 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203261,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,33,2.71 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203268,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,43,3.53 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203276,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,55,4.51 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203280,7.57 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203290,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,0,0.00 B,DROP,all,--,*,*,0.0.0.0/0,192.168.1.140
+3,203325,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203372,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203378,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203383,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203387,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203389,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203396,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203402,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203410,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203419,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203422,7.58 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203426,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203431,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203435,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203439,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203443,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203451,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203456,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,59,4.84 KB,DROP,all,--,*,*,0.0.0.0/0,192.168.0.160
+2,203467,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203480,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203486,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203503,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203509,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203512,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203518,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203531,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203533,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203535,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203543,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203552,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203555,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203561,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203564,7.59 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203568,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203574,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203580,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203587,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203597,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203600,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203602,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203610,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203615,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203617,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203621,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203629,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203632,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203634,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203642,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203650,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203660,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203668,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203671,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203673,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
+1,203681,7.60 MB,<a href="#rule_filter_delegate_forward">delegate_forward</a>,all,--,*,*,0.0.0.0/0,0.0.0.0/0
